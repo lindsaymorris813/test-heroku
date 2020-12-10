@@ -34,3 +34,6 @@ app.get("/", function(req, res) {
 app.listen(PORT, function() {
     console.log('Server running on http://localhost:' + PORT);
 })
+
+//git add, commit push heroku master
+//heroku open to open deployed app
